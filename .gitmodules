@@ -1,0 +1,3 @@
+[submodule "l10n_ec_partner"]
+	path = l10n_ec_partner
+	url = git@github.com:ShadowSoftwareEcuador/l10n_ec_partner.git
